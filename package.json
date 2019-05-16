@@ -1,11 +1,20 @@
 {
   "name": "rn-normalize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Normalize React Native Size to its Scale Factor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/nowarzz/rn-normalize.git"
+  },
+  "keywords": ["React Native","normalize","font size","scale"],
   "author": "Willy Martin (lucky.nowarzz@gmail.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/nowarzz/rn-normalize.git",
+  "bugs":{
+    "url": "https://github.com/nowarzz/rn-normalize/issues"
+  }
 }
